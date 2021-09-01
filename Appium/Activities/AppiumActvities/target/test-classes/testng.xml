@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="false" name="Suite">
+  <test name="Test">
+    <classes>
+      <class name="Appium_Activities.Activity1_2"/>
+      <class name="Appium_Activities.Activity2_1"/>
+      <class name="Appium_Activities.Activity2_2"/>
+      <class name="Appium_Activities.Activity2_3"/>
+      <class name="Appium_Activities.Activity3_1"/>
+      <class name="Appium_Activities.Activity3_2"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
